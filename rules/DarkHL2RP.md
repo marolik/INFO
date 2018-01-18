@@ -1,6 +1,6 @@
 > Правила Работ [тут](https://github.com/TRIGONIM/INFO/blob/master/rules/DarkHL2RP-Jobs.md)
 
-# Содержание:
+# Содержание:2
 * [Общие правила](#FORALL)
 * [Правила коммуникации](#COMMUNICATION)
 * [Правила строительства](#BUILDING)
